@@ -3,7 +3,7 @@
 
 ### Información del proyecto ###
 
-* Este proyecto tiene como objetivo ...
+* Este proyecto tiene como objetivo implementar pruebas funcionales automatizadas y pruebas de carga para proyecto java maven
 * Nuevas funcionalidades: 
 
 ### Instalación y configuración ###
@@ -23,7 +23,6 @@ $ mvn clean package
 ### Otros temas de interés ###
 
 * Información de contacto de equipo de desarrollo: 
-	desarrollador: desarrollador@consorcio.cl
-	qa: qa@consorcio.cl 
-    scrum master: scrummaster@consorcio.cl
+	desarrollador: luis vega
+	
 * Documentación externa: ..
